@@ -1,0 +1,15 @@
+{
+  "name": "building14bot",
+  "version": "1.0.0",
+  "description": "decide lunch for boys and girls who can't",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rocketpartners.io",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "slackbots": "^1.1.0"
+  }
+}
